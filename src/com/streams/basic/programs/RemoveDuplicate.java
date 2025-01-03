@@ -1,4 +1,4 @@
-package com.strream.basic.programs;
+package com.streams.basic.programs;
 
 import java.util.Arrays;
 import java.util.List;
