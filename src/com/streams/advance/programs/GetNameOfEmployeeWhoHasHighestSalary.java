@@ -9,8 +9,7 @@ import lombok.Data;
 
 public class GetNameOfEmployeeWhoHasHighestSalary {
 	/*
-	 * Get employee who has highest salary
-	 * 
+	 * Get employee who has highest salary 
 	 */
 	public static void main(String[] args) {
 		List<Employee> emp = Arrays.asList(new Employee(101, "Ganesh", 750000.78), new Employee(102, "Sanket", 1000.0),
